@@ -19,5 +19,5 @@ LA carpeta incluye:
 - Power BI
 
 ## CAPTURAS
-![Dashboard de Accidentes](https://drive.google.com/file/d/1dT_apKoUPXSqS7kda4lL9k-KFUGaVipH/view?usp=drive_link)
-![Dashboard de Producción](https://drive.google.com/file/d/1aA74iH-A8d8A_MOmZC0ILrvy-oE08wGi/view?usp=drive_link)
+![Dashboard de Accidentes](https://drive.google.com/uc?export=view&id1dT_apKoUPXSqS7kda4lL9k-KFUGaVipH)
+![Dashboard de Producción](https://drive.google.com/uc?export=view&id1aA74iH-A8d8A_MOmZC0ILrvy-oE08wGi)
