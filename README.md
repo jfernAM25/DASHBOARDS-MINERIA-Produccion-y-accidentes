@@ -17,3 +17,7 @@ LA carpeta incluye:
 - Python (pandas, sqlite3)
 - SQL
 - Power BI
+
+## CAPTURAS
+![Dashboard de Accidentes](https://drive.google.com/file/d/1dT_apKoUPXSqS7kda4lL9k-KFUGaVipH/view?usp=drive_link)
+![Dashboard de Producción](https://drive.google.com/file/d/1aA74iH-A8d8A_MOmZC0ILrvy-oE08wGi/view?usp=drive_link)
