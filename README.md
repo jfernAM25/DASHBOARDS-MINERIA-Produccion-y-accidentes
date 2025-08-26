@@ -20,4 +20,4 @@ LA carpeta incluye:
 
 ## CAPTURAS
 ![Dashboard de Accidentes](https://drive.google.com/uc?export=view&id1dT_apKoUPXSqS7kda4lL9k-KFUGaVipH)
-![Dashboard de Producción](https://imgur.com/EtRLEuz)
+![Dashboard de Producción](https://imgur.com/EtRLEuz.png)
